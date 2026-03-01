@@ -36,6 +36,11 @@ Architecture: Object-Oriented Design using a csRacerBase class to handle physics
 📸 Screenshots
 Setup and Statistics
 Configure your racers, adjust the "Hyperspace Constant" (track speed), and view historical performance.
+<img width="911" height="482" alt="Screenshot 2026-03-01 144246" src="https://github.com/user-attachments/assets/48ce4731-e30f-4443-a268-e4cedb864bb7" />
+<img width="916" height="483" alt="Screenshot 2026-03-01 144233" src="https://github.com/user-attachments/assets/7cec0629-3147-4539-a941-6ee78ad9926c" />
+<img width="915" height="480" alt="Screenshot 2026-03-01 144240" src="https://github.com/user-attachments/assets/d4be0bbb-39c9-483d-a50d-b5f5172bc76f" />
+
+
 
 Launch Screen
 The immersive entry point to the Galactic Race.
@@ -50,12 +55,3 @@ Race: Go to The Race tab and hit START!.
 Reset: After a winner is crowned, click Reset to return ships to the starting gate.
 
 Save: Use the File > Save As menu to export your race results log to a .txt file.
-
-📁 Project Structure
-Form1.cs: The main UI logic and race controller.
-
-csRacerBase.cs: The logic for racer movement, speed calculation, and finish-line detection.
-
-Properties/: Contains the required audio assets (Cantina_Music.mp3, Ship_Start.mp3, finish.wav).
-
-doc/: Contains the Manual.pdf user documentation.
